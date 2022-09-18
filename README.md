@@ -10,7 +10,7 @@ The application lists the bootcamps in patika.dev as a concept and directs them 
 
 ### Launch Screen
 
- <img src="images/launchScreen.png" width="25%" />
+ <img src="images/launchScreen.png" width="19%" />
  
  
 ### Home Screen (Bootcamps)

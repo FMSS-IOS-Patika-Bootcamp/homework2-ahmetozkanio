@@ -11,10 +11,10 @@
  
  
 # Home Screen (Bootcamps)
- 
+ <p>
 <img src="images/bootcamps.png" width="19%" />
 <img src="images/bootcamps2.png" width="19%" />
-
+</p>
 
 # Detail Screen
  

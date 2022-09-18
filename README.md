@@ -1,17 +1,30 @@
-# HomeWork2
-İkinci Ödev
+# Patika Bootcamp News
 
-          Haber Uygulaması
-- İlk sayfada Haberler Listelenicek.
-- Haberler   TableView yada # CollecitionView ile gösterilecek.
-- Habere tıklanınca  ilgili Haberin detay sayfası acılıcak.
-- Geçişler  Navigation Controller ile gerçekleştirilicek.
-- Haber Detayına gecerken Struct gönderip. Detay sayfasında Navigation Title bu structan alınıcak.
-- Detay sayfasındaki Description ( Açıklama ) bölümü gönderdiğimiz Streuctan alınıcak.
-- Detay sayfasının Description ( Acıklama ) bölümüne 20 px aralık ile Bir buton konumlandırılıcak. 
-- Detay sayfasındaki Butona bastığımızda 3. bir ekrana gidilicek.
-- 3. Ekranımızda Webview olucak ve ilgili Habere yönlendirilicek ( Burada istediğiniz siteye yönlendirme yapabilirsiniz Dumyy Haberlerle çalışıcaksınız. Örnek: https://www.google.com.tr/  )
+# Application Icon
 
+<p align='center'>
+ <img src="images/appicon.png" />
+</p>
+# Launch Screen
 
-# CollectionView da bir row da 2 ve daha fazla Haber gösterebilen extra puan alıcaktır.
-- İsteyen Uygulamasını Icon Koyabilir.
+ <img src="images/launchScreen.png" width="25%" />
+ 
+ # Home Screen (Bootcamps)
+ 
+<p align='center'>
+    <img src="images/bootcamps.png" width="19%" />
+    <img src="images/bootcamps2.png" width="19%" />
+</p>
+
+# Detail Screen
+ 
+<p align='center'>
+    <img src="images/detail.png" width="19%" />
+    <img src="images/detail2.png" width="19%" />
+</p>
+
+# WebView Screen
+ 
+<p align='center'>
+    <img src="images/webview.png" width="19%" />
+</p>

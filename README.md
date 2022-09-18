@@ -1,28 +1,28 @@
-#Patika Bootcamp News
+# Patika Bootcamp News
 
-#Application Icon
+# Application Icon
 
  <img src="images/appicon.png" />
 
 
-#Launch Screen
+# Launch Screen
 
  <img src="images/launchScreen.png" width="25%" />
  
  
-#Home Screen (Bootcamps)
+# Home Screen (Bootcamps)
  
-    <img src="images/bootcamps.png" width="19%" />
-    <img src="images/bootcamps2.png" width="19%" />
+<img src="images/bootcamps.png" width="19%" />
+<img src="images/bootcamps2.png" width="19%" />
 
 
-#Detail Screen
+# Detail Screen
  
-    <img src="images/detail.png" width="19%" />
-    <img src="images/detail2.png" width="19%" />
+<img src="images/detail.png" width="19%" />
+<img src="images/detail2.png" width="19%" />
 
 
-#WebView Screen
+# WebView Screen
  
-    <img src="images/webview.png" width="19%" />
+<img src="images/webview.png" width="19%" />
 

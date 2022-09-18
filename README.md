@@ -15,17 +15,17 @@ The application lists the bootcamps in patika.dev as a concept and directs them 
  
 ### Home Screen (Bootcamps)
  <p>
-<img src="images/bootcamps.png" width="19%" />
-<img src="images/bootcamps2.png" width="19%" />
+<img src="images/bootcamps.png" width="25%" />
+<img src="images/bootcamps2.png" width="25%" />
 </p>
 
 ### Detail Screen
 <p>
-<img src="images/detail.png" width="19%" />
-<img src="images/detail2.png" width="19%" />
+<img src="images/detail.png" width="25%" />
+<img src="images/detail2.png" width="25%" />
 </p>
 
 ### WebView Screen
  
-<img src="images/webview.png" width="19%" />
+<img src="images/webview.png" width="25%" />
 
